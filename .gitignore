@@ -1,7 +1,2 @@
-.vscode/*
-grabber/__pycache__/*
-mycore/__pycache__/*
-__pycache__/*
-src/data/*
-.ipynb_checkpoints/*
+
 /target/
