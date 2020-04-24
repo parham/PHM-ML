@@ -1,9 +1,10 @@
-
 #### PHM-ML
 
-*** The project has been initiated in 2013 *** 
+@Project: PHM-ML
+@Year: 2013
+@Organization: University of Malaya
 
-So I decided to clean it up and put it out there in case other developers and researchers like the proposed objectives in this project :D
+The project has been initiated in 2013, So I decided to clean it up and put it out there in case other developers and researchers like the proposed objectives in this project :D
 
 ## Objectives
 1. Prepare a platform for researchers to implement their algorithms more easily
